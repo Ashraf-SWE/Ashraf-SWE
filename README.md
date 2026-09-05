@@ -4,7 +4,7 @@ Readme · MD
 
 
 
-<h1 align="center">Hi 👋, I'm MD ASHRAF SIDDIQUE</h1> <h3 align="center">Software Engineering Student • Cyber Security Learner</h3> <br>
+<h1 align="center"> I'm MD ASHRAF SIDDIQUE</h1> <h3 align="center">Software Engineering Student • Cyber Security Learner</h3> <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things;Bug+Bounty;Cyber+Security+Enthusiast" alt="typing-svg"/>
 </p>
