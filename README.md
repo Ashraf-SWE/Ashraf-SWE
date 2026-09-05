@@ -18,7 +18,7 @@ Readme · MD
 🤝 Looking for help with SOC / Cyber Security practical exposure<br>
 💬 Ask me about SOC Analytics, React, JavaScript<br>
 ❤️ Love Open Source<br>
-🌐 Connect with Me<br>
+
 ## 🌐 Connect with Me
 
 <p align="center">
