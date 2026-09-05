@@ -2,6 +2,10 @@
 
 Readme · MD
 
+
+
+<h1 align="center">Hi 👋, I'm MD ASHRAF SIDDIQUE</h1> <h3 align="center">Software Engineering Student • Frontend Developer • Cyber Security Learner</h3> <br>
+
 🚀 About Me
 🎓 Studying BSc in Software Engineering at Daffodil International University
 💻 Passionate about Frontend Development
@@ -11,10 +15,6 @@ Readme · MD
 🤝 Looking for help with SOC / Cyber Security practical exposure
 💬 Ask me about SOC Analytics, React, JavaScript
 ❤️ Love Open Source
-
-
-<h1 align="center">Hi 👋, I'm MD ASHRAF SIDDIQUE</h1> <h3 align="center">Software Engineering Student • Frontend Developer • Cyber Security Learner</h3> <br>
-
 🌐 Connect with Me
 <p align="center"> <a href="https://github.com/ashraf-swe" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a> <a href="mailto:sweashraf2030@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> </a> <!-- 🔧 লিংকডইন / ইনস্টাগ্রাম থাকলে এখানে যোগ করো, নাহলে বাদ দাও --> <!-- <a href="https://linkedin.com/in/your-id" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> </a> <a href="https://instagram.com/your-id" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/> </a> --> </p>
 💻 Tech Stack
