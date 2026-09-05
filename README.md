@@ -20,7 +20,10 @@ Readme · MD
 💻 Tech Stack
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
 📊 GitHub Stats
-<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashraf-swe&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ashraf-swe stats"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraf-swe&layout=compact&locale=en&theme=tokyonight" alt="ashraf-swe top langs"/> </p>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=ashraf-swe&show_icons=true&locale=en&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="ashraf-swe stats"/>
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashraf-swe&layout=compact&locale=en&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="ashraf-swe top langs"/>
+</p>
 🔥 GitHub Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf-swe&theme=tokyonight" alt="ashraf-swe streak stats"/> </p>
 📈 Contribution Graph
@@ -30,7 +33,11 @@ Readme · MD
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/ashraf-swe/ashraf-swe/output/github-contribution-grid-snake.svg" alt="ashraf-swe snake"/> </p> <!-- ⚠️ এই snake animation আপনা-আপনি আসবে না — এর জন্য একটা GitHub Action ওয়ার্কফ্লো লাগবে। আমি নিচে সেই workflow ফাইলটাও (snake.yml) আলাদা করে বানিয়ে দিয়েছি — সেটা repo-তে বসালে snake.svg জেনারেট হবে। -->
 🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=ashraf-swe&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="ashraf-swe trophies"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ashraf-swe&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="ashraf-swe trophies"/>
+  </a>
+</p>
 💼 Featured Projects
 <p align="center"> <a href="https://github.com/ashraf-swe/REPO_NAME_1"> <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ashraf-swe&repo=REPO_NAME_1&theme=tokyonight" alt="Featured project 1"/> </a> <a href="https://github.com/ashraf-swe/REPO_NAME_2"> <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ashraf-swe&repo=REPO_NAME_2&theme=tokyonight" alt="Featured project 2"/> </a> </p> <!-- ⚠️ REPO_NAME_1 / REPO_NAME_2 এর জায়গায় নিজের আসল রিপো নাম বসাও -->
 👀 Profile Views
